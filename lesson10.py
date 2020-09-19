@@ -1,0 +1,2 @@
+a = "Kiên"
+print(a)

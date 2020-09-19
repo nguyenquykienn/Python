@@ -1,0 +1,6 @@
+n1 = int(input("Nhap vao n1:"))
+n2 = int(input("Nhap vao n2:"))
+n12 = (n1 + n2)
+a12 = (n1 - n2)
+print(f"Kết quả cộng là: {n12}")
+print(f"Kết quả trừ là: {a12}")

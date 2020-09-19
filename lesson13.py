@@ -1,0 +1,5 @@
+print("Hinh chu nhat rong")
+print("* * * * *")
+print("*       *")
+print("*       *")
+print("* * * * *")
